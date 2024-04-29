@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T02:26:27.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.3.1" etag="gE-OhNJzPGOe1oBMNv1U" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T02:34:06.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="a8bysr0Bm27W8aFjwMrV" version="24.3.1" type="github">
   <diagram name="Page-1" id="QpsE_KLlELCOmAd1WYMW">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_sKGQiMD87KBcc5OrfAb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_sKGQiMD87KBcc5OrfAb-1" target="_sKGQiMD87KBcc5OrfAb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_sKGQiMD87KBcc5OrfAb-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="670" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="_sKGQiMD87KBcc5OrfAb-2" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" vertex="1" parent="1">
+          <mxGeometry x="410" y="670" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="_sKGQiMD87KBcc5OrfAb-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_sKGQiMD87KBcc5OrfAb-4" target="_sKGQiMD87KBcc5OrfAb-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_sKGQiMD87KBcc5OrfAb-4" value="" style="shape=mxgraph.signs.tech.video_camera;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="640" y="500" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_sKGQiMD87KBcc5OrfAb-6" value="Monitor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_sKGQiMD87KBcc5OrfAb-7" value="Mac Mini" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="640" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_sKGQiMD87KBcc5OrfAb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_sKGQiMD87KBcc5OrfAb-8" target="_sKGQiMD87KBcc5OrfAb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_sKGQiMD87KBcc5OrfAb-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="610" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_sKGQiMD87KBcc5OrfAb-13" value="ATEM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
